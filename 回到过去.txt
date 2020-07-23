@@ -1,0 +1,14 @@
+
+                          
+                       add                               commit
+                   ------------>                       --------->     
+
+working directort                   stage(index)                     repository
+
+                  <-------------                       <----------
+                     checkout                             reset
+
+reset回滚快照
+命令
+git reset HEAD~ 波浪线的意思就是上一个版本
+快照会回滚到第二棵树也就是暂存区域里
