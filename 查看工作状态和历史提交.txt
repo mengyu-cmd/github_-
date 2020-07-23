@@ -1,0 +1,12 @@
+git status查看工作状态
+
+添加LICENSE，添加MIT协议，版权声明
+
+untracked file未添加到暂存区域或仓库的文件
+git reset HEAD <文件>取消暂存
+
+git checkout -- <文件>
+会从最新版本覆盖掉现在的修改
+
+git log
+查看历史版本信息
